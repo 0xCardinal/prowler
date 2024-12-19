@@ -19,7 +19,7 @@
       "Terraform": ""
     },
     "Recommendation": {
-      "Text": "Gues access should be disabled for Cognito Identity Pool. To disable guest access, follow the steps in the Amazon Cognito documentation.",
+      "Text": "Guest access should be disabled for Cognito Identity Pool. To disable guest access, follow the steps in the Amazon Cognito documentation.",
       "Url": "https://docs.aws.amazon.com/location/latest/developerguide/authenticating-using-cognito.html"
     }
   },
